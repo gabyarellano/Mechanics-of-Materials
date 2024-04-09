@@ -1,6 +1,6 @@
 # **VIRTUAL LAB :**    1st year Mechanics - the 3-Force Body Case Study
 
-<img src="internal/README_images/3force_animated.gif" width=75% height=75%/>	
+<img src="README_images/3force_animated.gif" width=75% height=75%/>	
   
 # DEMO description
 
@@ -8,7 +8,7 @@
 In this **VIRTUAL LAB** we explore a quadrilateral steel plate acted on by two string tensions **F1**, **F2**, and its weight **W**.  The points of application of these three forces are at the centres of the holes A and B and at the body’s centre of mass G, as shown in the Figure below. The system is planar, that is all forces lie in one plane.
 
 
-![image_1.png](internal/README_images/image_1.png)}
+![image_1.png](README_images/image_1.png)}
 
 
 The objective of this experiment is to:
@@ -34,7 +34,7 @@ Some key concepts that are demonstrated include:
 
 
 
-![image_2.png](internal/README_images/image_2.png)
+![image_2.png](README_images/image_2.png)
 
 
   
@@ -51,7 +51,7 @@ CSEs, 1st year undergraduate students, professors, engineering
 Open and read the file` **TASK_00_START_HERE_PLEASE.mlx** this gives an overview of the Lab.   
 
 
-<img src="internal/README_images/image_3.png" width=60% height=60%/>	
+<img src="README_images/image_3.png" width=60% height=60%/>	
   
 
 There are 3 tasks that need to be completed in this Lab.  Each task has it's dedicated script file(see above)
@@ -65,7 +65,7 @@ There are 3 tasks that need to be completed in this Lab.  Each task has it's ded
   
 
 
-![image_4.png](internal/README_images/image_4.png) **VIDEO resources:**
+![image_4.png](README_images/image_4.png) **VIDEO resources:**
 
 
 
