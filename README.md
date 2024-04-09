@@ -63,14 +63,6 @@ There are 3 tasks that need to be completed in this Lab.  Each task has it's ded
    1.  **TASK_03** :   We'll analyse the logged simulation data and use it to confirm the Force equillibrium of the plate 
 
   
-
-
-![image_4.png](README_images/image_4.png) **VIDEO resources:**
-
-
-
-   -  A video file is provided which gives a quick overview of the "cause and effect" workflow. 
-
   
 # Release that demo was last tested in
 
