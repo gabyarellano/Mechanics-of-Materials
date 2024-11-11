@@ -1,4 +1,4 @@
-# **VIRTUAL LAB :**    1st year Mechanics - the 3-Force Body Case Study
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=gabyarellano/Mechanics-of-Materials)# **VIRTUAL LAB :**    1st year Mechanics - the 3-Force Body Case Study
 
 <img src="README_images/3force_animated.gif" width=75% height=75%/>	
   
